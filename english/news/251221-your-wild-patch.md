@@ -1,5 +1,5 @@
 ---
-title: Your Wild Patch
+title: Test Your Wild Patch
 date: 2025-12-21T12:28:34+00:00
 description: Exciting new project, with custom wildlife ID areas and dashboards. Guest post by Yusef Samari
 image: https://res.cloudinary.com/naturceredigion/image/upload/w_640,h_360/v1764533266/251130-your-wild-patch-dashboard.jpg
@@ -8,8 +8,7 @@ featured: true
 categories:
   - Partnership
 author: Yusef Samari
-translationKey: "Introducing Your Wild Patch"
-
+translationKey: Introducing Your Wild Patch
 ---
 *Yusef Samari, WWBIC GIS Officer and Project Lead [yusef@westwalesbiodiversity.org.uk](mailto:yusef@westwalesbiodiversity.org.uk)*
 # Your Wild Patch

@@ -11,10 +11,14 @@
             "id": "e810fb7a31bdb182",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "english/news/251221-your-wild-patch.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "251221-your-wild-patch"
             }
           }
         ]
@@ -163,7 +167,9 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "iconic:Open rulebook": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e810fb7a31bdb182",
