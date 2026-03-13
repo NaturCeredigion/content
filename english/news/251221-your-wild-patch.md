@@ -1,5 +1,5 @@
 ---
-title: Test Your Wild Patch
+title: Your Wild Patch
 date: 2025-12-21T12:28:34+00:00
 description: Exciting new project, with custom wildlife ID areas and dashboards. Guest post by Yusef Samari
 image: https://res.cloudinary.com/naturceredigion/image/upload/w_640,h_360/v1764533266/251130-your-wild-patch-dashboard.jpg
@@ -11,7 +11,6 @@ author: Yusef Samari
 translationKey: Introducing Your Wild Patch
 ---
 *Yusef Samari, WWBIC GIS Officer and Project Lead [yusef@westwalesbiodiversity.org.uk](mailto:yusef@westwalesbiodiversity.org.uk)*
-# Your Wild Patch
 What wildlife is living in your local patch – be that your garden, favourite nature reserve, local park, or whatever ‘your patch’ means to you? How is your patch contributing to the wider biodiversity of your area? What contribution could it potentially make? 
 
 These are the kind of questions we would like to get people thinking about in the ‘Your Wild Patch’ project, which aims to both build natural history and recording skills in the community, and to help people to use those skills to record the wildlife on their local patch – or further afield! 
