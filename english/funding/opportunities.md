@@ -7,6 +7,5 @@ alias: /cynllun-grantiau-bach
 translationKey: "funding-opportunities"
 ---
 
-Yn dod yn fuan...
-
-Climate Cymru signup for newsletter: [climate.cymru/sign-up-for-our-newsletter/](https://climate.cymru/sign-up-for-our-newsletter/ "https://climate.cymru/sign-up-for-our-newsletter/")
+# Funding Opportunities
+Coming Soon...
