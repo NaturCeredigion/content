@@ -4,10 +4,9 @@ draft: false
 description: How to add a Partner profile
 ---
 
-![Screenshot of partners page](https://res.cloudinary.com/naturceredigion/image/upload/w_420/v1772023314/260225-naturceredigion-partners-page.webp)
-
+- ![Screenshot of partners page](https://res.cloudinary.com/naturceredigion/image/upload/w_420/v1772023314/260225-naturceredigion-partners-page.webp)<br>*Partner page*
 - Logo (preferably SVG vector format)
-- 15-20 word summary<br>![Screenshot of Butterfly Conseravtion partner page](https://res.cloudinary.com/naturceredigion/image/upload/w_420/v1772023225/260225-butterfly-conservation-naturceredigion-partner-page-screenshot.jpg)
+- 15-20 word summary<br>![Screenshot of Butterfly Conseravtion partner page](https://res.cloudinary.com/naturceredigion/image/upload/w_420/v1772023225/260225-butterfly-conservation-naturceredigion-partner-page-screenshot.jpg)<br>*Butterfly Conservation profile page*
 - Link to web page
 - List of sites
 - List of projects (present and past)

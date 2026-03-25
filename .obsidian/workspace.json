@@ -15,7 +15,7 @@
               "state": {
                 "file": "english/docs/process/profile.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "profile"
