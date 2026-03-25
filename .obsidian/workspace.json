@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "79ce88e88fbc39b7",
+        "id": "f6cbf2480921c137",
         "type": "tabs",
         "children": [
           {
-            "id": "6644fa891beff316",
+            "id": "7657295ed5d2ae0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english/docs/branding/logos.md",
+                "file": "english/docs/process/profile.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "logos"
+              "title": "profile"
             }
           }
         ]
@@ -172,8 +172,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6644fa891beff316",
+  "active": "7657295ed5d2ae0e",
   "lastOpenFiles": [
+    "english/docs/process/_index.md",
+    "english/docs/process/profile.md",
+    "english/docs/branding/logos.md",
     "english/news/251221-your-wild-patch.md",
     "cymraeg/newyddion/251221-your-wild-patch.md",
     "english/partners/rspb.md",
@@ -198,9 +201,6 @@
     "cymraeg/cyllid/small-grant-scheme.md",
     "cymraeg/cyllid/opportunities.md",
     "cymraeg/cyllid",
-    "cymraeg/partneriaid/wildlife-trust.md",
-    "cymraeg/partneriaid/tir-canol.md",
-    "cymraeg/partneriaid/the-flower-meadow.md",
     "cymraeg/partneriaid",
     "cymraeg/digwyddiadau",
     "cymraeg/newyddion",

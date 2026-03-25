@@ -14,12 +14,11 @@ partners_info:
 partners_images:
   - image: https://res.cloudinary.com/naturceredigion/image/upload/f_auto/w_860/v1722523415/butterfly-conservation-high-brown-fritillary-iain-h-leach.jpg
 relations:
-  - "[[partner]]"
+  - "[[english/partner]]"
   - "[[wild-spaces]]"
 tags:
   - partner
-translationKey: "Butterfly Conservation"
-
+translationKey: Butterfly Conservation
 ---
 
 Butterfly Conservation chooses to be a leader in the fight for our natural world. To do that we need to build on our successes and be even more effective, to focus our resources to have a greater impact. We must build stronger collaborations, be part of nature’s recovery at a larger scale, and broaden our reach to ensure that everyone has access to and can enjoy the wonders of butterflies and moths.
