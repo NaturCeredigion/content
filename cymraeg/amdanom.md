@@ -18,7 +18,7 @@ my_experiences:
     enthusiasms: "Canolbarth Gogledd Ceredigion. Coedlannau, bywyd y môr, Dyfrgwn a Draenogod, nofio yn y môr a phadlfyrddio 🏊️"
 
   - title: "Gillian Clark"
-    job_title: "Cydlynydd Bioamrywiaeth"
+    job_title: "Cydlynnydd Partneriaeth Natur Lleol Ceredigion"
     enthusiasms: "Gorllewin Ceredigion. Cefnforoedd a moroedd, morloi, ymlusgiaid… Metel Trwm 🤘"    
 
   - title: "Norman Birch"
